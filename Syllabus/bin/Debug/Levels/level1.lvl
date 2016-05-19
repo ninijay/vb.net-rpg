@@ -1,0 +1,7 @@
+lightworld.map
+basis
+5,5
+NPCs:2
+poom,poom,3,3,Down,poom.dlg
+doom,doom,4,3,Up,doom.dlg
+
